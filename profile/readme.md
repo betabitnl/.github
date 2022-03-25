@@ -16,6 +16,6 @@ _Smart. Transparent. Measurable._
 * [Twitter (@betabitnl)](https://twitter.com/betabitnl)
 * [YouTube](https://www.youtube.com/betabitvideos)
 
-## Graduation or work
+## Graduate or work at Betabit
 
 Interested in graduating at, or working for Betabit? Have a look at our [jobs repo](https://github.com/betabitnl/jobs).
