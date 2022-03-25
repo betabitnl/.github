@@ -4,7 +4,7 @@
 
 _Smart. Transparent. Measurable._
 
-Find us here:
+## Online profiles
 
 * [betabit.nl](https://www.betabit.nl/)
 * [Discord](https://discord.gg/KTkCXQTgjR)
@@ -15,3 +15,7 @@ Find us here:
 * [Betatalks the podcast](https://podcast.betatalks.nl)
 * [Twitter (@betabitnl)](https://twitter.com/betabitnl)
 * [YouTube](https://www.youtube.com/betabitvideos)
+
+## Graduation or work
+
+Interested in graduating at, or working for Betabit? Have a look at our [jobs repo](https://github.com/betabitnl/jobs).
