@@ -1,10 +1,7 @@
 # betabit {...}
+managed software development
 
-## We make the best business-critical software. On Azure.
-
-_Smart. Transparent. Measurable._
-
-## Online profiles
+---
 
 * [betabit.nl](https://www.betabit.nl/)
 * [Discord](https://discord.gg/KTkCXQTgjR)
@@ -16,6 +13,8 @@ _Smart. Transparent. Measurable._
 * [Twitter (@betabitnl)](https://twitter.com/betabitnl)
 * [YouTube](https://www.youtube.com/betabitvideos)
 
-## Graduate or work at Betabit
 
 Interested in graduating at, or working for Betabit? Have a look at our [jobs repo](https://github.com/betabitnl/jobs).
+
+---
+_We assess build and run the best business critical software in Azure_
